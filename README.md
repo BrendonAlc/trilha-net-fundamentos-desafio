@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - Fundamentos
-www.dio.me
+[www.dio.me](https://web.dio.me/users/brendon_rodrigo?tab=achievements)
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
